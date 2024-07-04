@@ -1,0 +1,13 @@
+*.csv
+*.ckpt
+*.cbm
+*.txt
+/data/*
+/models/*
+/AutogluonModels/*
+/catboost_info/*
+/__pycache__/*
+*.pt
+*.bin
+*.yaml
+lightning_logs/version_0/events.out.tfevents.1693345451.MacBook-Pro.72786.0
